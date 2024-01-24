@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tentacle-dev&label=Profile%20views&color=0e75b6&style=flat" alt="tentacle-dev" /> </p>
 
-
+<img src="https://i.gifer.com/7fzT.gif"  width="40" height="40" />
 
 - 🌱 I’m currently learning about Life**
 
