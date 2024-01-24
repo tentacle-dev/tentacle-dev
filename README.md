@@ -1,10 +1,10 @@
+[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Thanush Seelan</h1>
 <h3 align="center">A passionate Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tentacle-dev&label=Profile%20views&color=0e75b6&style=flat" alt="tentacle-dev" /> </p>
 
-<img src="https://i.gifer.com/7fzT.gif"  width="40" height="40" />
-
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f7/e2/29/f7e229a1352bc6db247a59b3824b3936.gif">
 - 🌱 I’m currently learning about Life**
 
 - 👨‍💻 All of my projects are available at [https://tentacle-dev.github.io/Portfolio/](https://tentacle-dev.github.io/Portfolio/)
