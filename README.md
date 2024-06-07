@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tentacle-dev&label=Profile%20views&color=0e75b6&style=flat" alt="tentacle-dev" /> </p>
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f7/e2/29/f7e229a1352bc6db247a59b3824b3936.gif">
-- 🌱 I’m currently learning about Life**
+- 🌱 I’m currently learning about ma vie**
 
 - 👨‍💻 All of my projects are available at [https://tentacle-dev.github.io/Portfolio/](https://tentacle-dev.github.io/Portfolio/)
 
