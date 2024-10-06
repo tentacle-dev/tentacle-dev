@@ -21,10 +21,11 @@
 <a href="https://instagram.com/https://www.instagram.com/thanuzzh/?theme=dark" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/thanuzzh/?theme=dark" height="30" width="40" /></a>
 </p>
 
-
+```javascript
 const thanush = {
   code: [Javascript, Typescript, HTML, CSS, C#, Python, Java],
 }
+```
 
 
 <h3 align="left">Languages and Tools:</h3>
