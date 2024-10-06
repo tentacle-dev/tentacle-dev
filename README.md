@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **MERN, NextJs , Data Analysis**
 
-- 📫 How to reach me **tanush0525@gmail.com**
+- 📫 How to reach me **thanush0525@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
